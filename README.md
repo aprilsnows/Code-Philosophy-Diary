@@ -15,7 +15,7 @@ Resource: [SlideShare](http://www.slideshare.net/Solita_Oy/webapp-securitytut201
   * Don’t roll your own. 
     * Especially, don’t invent hash algorithms, RND or crypto!
     * Seriously. Failure imminent and certain. 
-  * Follow best practices. 
+  * Follow best practices. ([best practices from Futurice](https://github.com/aprilsnows/backend-best-practices#security))
   * Understand what you are doing. 
     * Read the RFC. Understand your tools and libs.
 2. Do it right (Mistake in implementation = bug = security issue)
