@@ -3,6 +3,11 @@
 ####Guest Lecture: How and why Web App security Fails? -- Antti Virtanen @SOLITA 
 Resource: [SlideShare](http://www.slideshare.net/Solita_Oy/webapp-securitytut2017), [Webhack](http://www.webhack.fi/), [google-gruyere](http://google-gruyere.appspot.com/)
 
+Tools: [Burp prox](https://portswigger.net/burp/), [OWASP Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+
+Reading: [OWASP Top-10 risks](https://www.owasp.org/index.php/Top_10_2013-Top_10), [The Web Application Hacker's Handbook](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf), [Hacking: The Art of Exploitation](https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf)
+
+
 > Philosophy of Security: 
 
 > "Security is risk management."
