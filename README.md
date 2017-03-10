@@ -1,5 +1,11 @@
 # Code & Philosophy -- Diary
 
+### 23.2.2017
+#### Guest Lecture: Modern Frontend development -- Roope Hakulinen @Gofore Oy
+slides: [bit.ly/2lsK5w5](bit.ly/2lsK5w5)
+
+---
+
 ### 16.2.2017
 #### Guest Lecture: How and why Web App security Fails? -- Antti Virtanen @SOLITA 
 
